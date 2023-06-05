@@ -20,9 +20,3 @@ ACCESS_TOKEN_EXPIRE_MINUTES=30
 ```bash
 docker-compose up --build
 ```
-
-При повторном запуске можно использовать следующую команду:
-
-```bash
-docker-compose up -d
-```
